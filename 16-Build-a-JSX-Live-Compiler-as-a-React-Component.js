@@ -8,7 +8,7 @@ class App extends React.Component {
     this.state = {
       err: "",
       output: "",
-      imput: "/** put here jsx here ***/"
+      input: "/** put here jsx here ***/"
     };
   }
   update(e) {
