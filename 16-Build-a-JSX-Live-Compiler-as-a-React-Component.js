@@ -1,3 +1,8 @@
+/**
+* Use the in browser CDN for babel transpiler
+https://cdnjs.cloudflare.com/ajax/libs/babel-standalone/6.26.0/babel.min.js
+**/
+
 import React from "react";
 import "./styles.css";
 
